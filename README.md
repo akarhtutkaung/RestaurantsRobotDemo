@@ -11,3 +11,10 @@ This study addresses the challenges of understaffing and overcrowding experience
 [Report Paper](Findings.pdf)
 
 ## Demos
+
+### 3D View
+https://github.com/akarhtutkaung/RestaurantsRobotDemo/assets/76828992/7a4a8723-199d-4d07-8776-68abbcc4edec
+
+### Top View
+https://github.com/akarhtutkaung/RestaurantsRobotDemo/assets/76828992/cf89d0a3-c8f5-4f09-b95c-c14dd6641185
+
